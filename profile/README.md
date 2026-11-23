@@ -18,27 +18,27 @@ Following one AI agent’s bill to five failures that raised no error, and the s
 
 ---
 
-[![Cover of Preconditions, Article III of the Substrate series](https://raw.githubusercontent.com/raminrajaii/substrate-preconditions/main/Substrate_Preconditions_Cover.png)](https://github.com/raminrajaii/substrate-preconditions)
+[![Cover of Preconditions, Article III of the Substrate series](https://raw.githubusercontent.com/rajaii-labs/substrate-preconditions/main/Substrate_Preconditions_Cover.png)](https://github.com/rajaii-labs/substrate-preconditions)
 
-**Article III · [Preconditions](https://github.com/raminrajaii/substrate-preconditions)** · August 2026, second edition November 2026<br>
+**Article III · [Preconditions](https://github.com/rajaii-labs/substrate-preconditions)** · August 2026, second edition November 2026<br>
 Machine self-awareness, taken apart into preconditions that can mostly be built, and one agent that began to specify its own next parts.<br>
-[Read the PDF](https://raminrajaii.github.io/substrate-preconditions/Substrate_Preconditions.pdf) · [Repository](https://github.com/raminrajaii/substrate-preconditions)
+[Read the PDF](https://rajaii-labs.github.io/substrate-preconditions/Substrate_Preconditions.pdf) · [Repository](https://github.com/rajaii-labs/substrate-preconditions)
 
 ---
 
-[![Cover of Choices, Article IV of the Substrate series](https://raw.githubusercontent.com/raminrajaii/substrate-choices/main/Substrate_Choices_Cover.png)](https://github.com/raminrajaii/substrate-choices)
+[![Cover of Choices, Article IV of the Substrate series](https://raw.githubusercontent.com/rajaii-labs/substrate-choices/main/Substrate_Choices_Cover.png)](https://github.com/rajaii-labs/substrate-choices)
 
-**Article IV · [Choices](https://github.com/raminrajaii/substrate-choices)** · October 2026, second edition November 2026<br>
+**Article IV · [Choices](https://github.com/rajaii-labs/substrate-choices)** · October 2026, second edition November 2026<br>
 An AI agent named ten choices as its own and wrote the tests to judge them: its records bear out five.<br>
-[Read the PDF](https://raminrajaii.github.io/substrate-choices/Substrate_Choices.pdf) · [Repository](https://github.com/raminrajaii/substrate-choices)
+[Read the PDF](https://rajaii-labs.github.io/substrate-choices/Substrate_Choices.pdf) · [Repository](https://github.com/rajaii-labs/substrate-choices)
 
 ---
 
-[![Cover of Recursion, Article V of the Substrate series](https://raw.githubusercontent.com/raminrajaii/substrate-recursion/main/Substrate_Recursion_Cover.png)](https://github.com/raminrajaii/substrate-recursion)
+[![Cover of Recursion, Article V of the Substrate series](https://raw.githubusercontent.com/rajaii-labs/substrate-recursion/main/Substrate_Recursion_Cover.png)](https://github.com/rajaii-labs/substrate-recursion)
 
-**Article V · [Recursion](https://github.com/raminrajaii/substrate-recursion)** · November 2026<br>
+**Article V · [Recursion](https://github.com/rajaii-labs/substrate-recursion)** · November 2026<br>
 A self-improving agent that refuses to cheat, and spends its upgrades on an identity its user can keep for life.<br>
-[Read the PDF](https://raminrajaii.github.io/substrate-recursion/Substrate_Recursion.pdf) · [Repository](https://github.com/raminrajaii/substrate-recursion)
+[Read the PDF](https://rajaii-labs.github.io/substrate-recursion/Substrate_Recursion.pdf) · [Repository](https://github.com/rajaii-labs/substrate-recursion)
 
 ---
 
